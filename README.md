@@ -14,3 +14,5 @@ zip是pcb的gaber文件,bom有空再整理
 https://docs.qq.com/sheet/DSVFJY3dKU25OV3ZR?tab=BB08J2
 
 2021-08-09 更新 via json文件
+
+2021-08-15 更新 qmk文件
